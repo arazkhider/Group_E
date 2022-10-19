@@ -10,6 +10,7 @@ class Python(Programming):
     def hasOOP(self):
         return True
 # one=Programming()
+# this is new
 two=Python()
 
 print(two.hasOOP())
