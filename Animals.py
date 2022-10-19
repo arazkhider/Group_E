@@ -11,7 +11,7 @@ class Bird(Animal):
     def move(self):
         print('This Animal Fly')
 
-
+#Bear
 class Bear(Animal):
     def move(self):
         print('This Animal Walks')
@@ -20,4 +20,5 @@ class Bear(Animal):
 # this is edited by me
 a = Animal()
 a.move()
+
 
