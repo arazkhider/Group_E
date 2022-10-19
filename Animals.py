@@ -17,5 +17,6 @@ class Bear(Animal):
         print('This Animal Walks')
 
 
+# this is edited by me
 a = Animal()
 a.move()
