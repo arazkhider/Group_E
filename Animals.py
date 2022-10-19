@@ -6,7 +6,7 @@ class Animal(metaclass=ABCMeta):
     def move(self):
         print('This Animal Walks')
 
-
+#This is birds
 class Bird(Animal):
     def move(self):
         print('This Animal Fly')
@@ -20,3 +20,4 @@ class Bear(Animal):
 # this is edited by me
 a = Animal()
 a.move()
+
